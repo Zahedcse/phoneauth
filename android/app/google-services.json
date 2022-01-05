@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "214257936686",
+    "project_id": "phoneauth-bed2f",
+    "storage_bucket": "phoneauth-bed2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214257936686:android:68e696b02e246a79c632bf",
+        "android_client_info": {
+          "package_name": "com.example.phoneauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214257936686-u9gbatkdo273tub941b2vu858862r5ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDZNE2VYE03CGBADccGQOtgUNtUHf6U10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214257936686-u9gbatkdo273tub941b2vu858862r5ca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
